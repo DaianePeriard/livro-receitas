@@ -5,4 +5,5 @@
 - Strogonoff de frango
 - Pavê
 - Bolo de chocolate
+- Macarrão de panela de pressão
 
